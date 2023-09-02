@@ -2,7 +2,6 @@
 
  
 ## **Running the Code**
-<br>
 
 ### Build docker services
 
